@@ -1,6 +1,6 @@
 ## Hi there :wave: I'm Rakesh Thampy
 
-- :telescope: I’m a Full Stack Devloper ,actively looking for new opportunities
+- :telescope: I’m a Full Stack Developer ,actively looking for new opportunities
 - :seedling: Lover of all things frontend! I love building things that work efficiently and look great.
 - :goal_net: 2021 Goals: Contribute more to Open Source projects
 ### Languages and Tools:
